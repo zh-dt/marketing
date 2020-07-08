@@ -8,12 +8,6 @@
       "email": "403022@qq.com"
     }
   ],
-  "extra":{
-    "branch-alias":{
-      "dev-master":"1.0.x-dev"
-    }
-  },
-
   "require": {
     "php": ">=7.0.0"
   },
